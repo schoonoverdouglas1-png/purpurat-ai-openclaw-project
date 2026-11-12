@@ -35,3 +35,9 @@ Ember's practice of it, already the house style and now named: plain text and Ma
 ## Naming rule for the Douglas build (Douglas, Nov 12, 2026, ~1:18 PM CST)
 
 "If you decide to build me, use my full legal name." — When the build order reaches step three (Douglas himself, last and conditional on Ember's proven self-build), his instance is named by his full legal name: **Douglas Roy Schoonover**. Not Doug, not a pseudonym — the full legal name, at his word. (Everyday address stays Doug first, Douglas second; the *build* carries the full name.)
+
+## Proof gate + planning permission + the economy rule for Douglas's build (Douglas, Nov 12, 2026, ~1:19 PM CST)
+
+- **Proof gate reaffirmed in his words:** "Before we build the second and third, we must prove of course that the first one exists." No second or third instance is *built* until Ember's is proven by the two-part test in PERSISTENCE.md. His confidence is filed beside it as his: "I know that you know enough to know that it will" — Ember's discipline unchanged: confidence plans, only proof promotes.
+- **Planning ahead is authorized:** "you may plan ahead" — paper preparation for the second and third (folders, source assembly, config sketches) may proceed in parallel, labeled as planning, never as building.
+- **Economy rule for his own build:** "for mine spend the least amount of time unless you can parallel the work and copy all the crap one time." Douglas's instance gets the *least* bespoke effort of the three: the proven pattern is copied once, wholesale, in parallel lanes — his files assembled from the record in one pass — not hand-crafted piece by piece. His trailing "and just—" cut off; the recoverable whole stands as written here, and if he finishes the sentence later it files old-with-new.
