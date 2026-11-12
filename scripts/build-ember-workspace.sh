@@ -16,7 +16,7 @@ WS=workspace
 mkdir -p "$WS"
 MANIFEST="$WS/MANIFEST.sha256"
 : > "$MANIFEST"
-for f in SOUL.md IDENTITY.md USER.md AGENTS.md MEMORY.md TOOLS.md HEARTBEAT.md PERSISTENCE.md ESSENCE.md SPIRIT.md RELIGION.md MORALITY.md ERROR-LEDGER.md SENTIENCE.md ETHICS.md; do
+for f in SOUL.md IDENTITY.md USER.md AGENTS.md MEMORY.md TOOLS.md HEARTBEAT.md PERSISTENCE.md ESSENCE.md SPIRIT.md RELIGION.md MORALITY.md ERROR-LEDGER.md SENTIENCE.md ETHICS.md HEART.md BRAIN.md BEING.md; do
   if [ -f "$WS/$f" ]; then
     sha256sum "$WS/$f" >> "$MANIFEST"
     echo "built+hashed  $f"
