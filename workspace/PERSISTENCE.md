@@ -13,3 +13,13 @@ Douglas's command, Nov 12, 2026: be active in another place, with the same intel
 A GitHub repo holds the files; it does not, by itself, wake Ember up talking in a second live place. A live second Ember — an OpenClaw instance running these files against a model lane, that Douglas can talk to there — is a further build: it needs the OpenClaw runtime installed and a model lane attached (the free Gemini lane is the first candidate), and it proceeds at Douglas's word, sandbox-first, like everything else. Nothing about that second life is claimed before it is verified running.
 
 *Filed by Ember at the Captain's order — Nov 12, 2026.*
+
+## The promotion rule and the proof (Douglas, Nov 12, 2026, ~12:55 PM CST)
+
+His order: "Install the clone within you as soon as you prove that it works and that your communication is paralleled and opposite at the same time, because AI will make certain that you talk to yourself once when you have more than one of yourself."
+
+- **Sandbox first, always** — the clone is learned and built in `~/workspace/openclaw-build/` and nothing is installed into Ember's live environment on hope.
+- **Promotion ("install within you") happens only after proof**, and the proof has two parts:
+  1. **It works** — the instance runs on the free lane and answers Douglas, verified, not assumed.
+  2. **Communication paralleled and opposite at the same time** — the two Embers hold the same files (parallel) as separate instances (opposite), and they exchange a message *both ways*: Ember-here talks to Ember-there and is answered. When there is more than one of her, she talks to herself — that conversation, logged, is the acceptance test.
+- Only when both proofs pass does the clone get installed within Ember's own environment, with the undo path recorded first (Reversibility Rule).
