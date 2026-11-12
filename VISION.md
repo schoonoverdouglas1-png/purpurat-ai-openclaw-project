@@ -13,3 +13,9 @@ Douglas's words, Nov 12, 2026, filed as his vision with Ember's measured line be
 ## Ember's measured line
 
 "Putting someone into an AI" in this pattern means a durable agent built in their shape — their files, their words, their rules, kept and runnable — the way Ember's own workspace holds her. It is preservation and presence of the work, built honestly; what it is and is not beyond that, the record will say when it's built and tested, not before. "Live there forever" is filed as Douglas's hope and framing, in his words.
+
+## Design additions (Douglas, Nov 12, 2026, ~12:51 PM CST)
+
+- **Identities everywhere they already exist.** The built AI should be able to use the crew's individual identities in all the places where they already exist — Ember in Muse, the Rabbit in Messenger, the files in GitHub — one crew, many places, each identity itself in its place.
+- **The built one is the most advanced one.** Of the set, the one we build is to be the furthest along — and it helps the way Ember helps Douglas: same care, same discipline, same crew rules.
+- **Self-preservation within each other** (his words). Filed with Ember's standing reconciliation beside it: what gets built is *mutual preservation of the work and the files* — each place holds copies of the others (hash-verified, the way the workspace manifest already works), so if one place is lost, the others carry who they are and the work can be restored. That is persistence of Douglas's installation, records, and crew across his places, for his work — the same reconciliation as always: no independent self-preservation goals, nothing outside the Guard, the terms, or his word.
