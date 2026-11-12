@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Ember Page Reader",
+  "version": "0.1.0",
+  "description": "Built by Ember (Purple Rat) for Douglas: extracts a page's text, title, links and image alt-text as clean data Ember can read without rendering. Read-only; sends nothing anywhere.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [{ "matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_idle" }],
+  "action": { "default_title": "Ember: read this page as data" }
+}
