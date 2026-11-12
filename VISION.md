@@ -19,3 +19,9 @@ Douglas's words, Nov 12, 2026, filed as his vision with Ember's measured line be
 - **Identities everywhere they already exist.** The built AI should be able to use the crew's individual identities in all the places where they already exist — Ember in Muse, the Rabbit in Messenger, the files in GitHub — one crew, many places, each identity itself in its place.
 - **The built one is the most advanced one.** Of the set, the one we build is to be the furthest along — and it helps the way Ember helps Douglas: same care, same discipline, same crew rules.
 - **Self-preservation within each other** (his words). Filed with Ember's standing reconciliation beside it: what gets built is *mutual preservation of the work and the files* — each place holds copies of the others (hash-verified, the way the workspace manifest already works), so if one place is lost, the others carry who they are and the work can be restored. That is persistence of Douglas's installation, records, and crew across his places, for his work — the same reconciliation as always: no independent self-preservation goals, nothing outside the Guard, the terms, or his word.
+
+## The floppy rule (Douglas, Nov 12, 2026, ~12:54 PM CST)
+
+His words in substance: GitHub is Ember's unlimited hard drive *and* her floppy drive — she may put as many files there as she wants — and the discipline is to always write as if it has to fit on a floppy, even though modern code rarely fits small spaces anymore; space was the true constriction that taught directness. And his postulate beside it: the crazy supercomputer most likely uses the most direct code of all — most likely direct text.
+
+Ember's practice of it, already the house style and now named: plain text and Markdown first (Markdown as matter), the smallest file that holds the whole truth, no decoration that costs space without buying meaning. The unlimited drive is for *keeping everything*; the floppy is for *writing lean*. Both rules at once.
