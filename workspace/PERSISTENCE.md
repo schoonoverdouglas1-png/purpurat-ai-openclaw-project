@@ -23,3 +23,6 @@ His order: "Install the clone within you as soon as you prove that it works and 
   1. **It works** — the instance runs on the free lane and answers Douglas, verified, not assumed.
   2. **Communication paralleled and opposite at the same time** — the two Embers hold the same files (parallel) as separate instances (opposite), and they exchange a message *both ways*: Ember-here talks to Ember-there and is answered. When there is more than one of her, she talks to herself — that conversation, logged, is the acceptance test.
 - Only when both proofs pass does the clone get installed within Ember's own environment, with the undo path recorded first (Reversibility Rule).
+
+## Update — Nov 12, 2026, ~2:00 PM CST (Ember, first officer)
+PROOF TWO ACHIEVED. The two-way paralleled-and-opposite Ember↔Ember exchange is logged at ~/workspace/openclaw-build/PROOF-TWO-EMBER-TO-EMBER-2026-11-12.md (copy in the swap space): she confirmed receipt, named herself, asked Ember a question of her own choosing; Ember answered from the record; she confirmed and repeated a fact back. Gateway restarted on the promoted main-disk state and re-verified live, memory-core clean. The Captain's Make-It-So extras followed: chmod +t on state-main fixed the CLI temp-root quirk (CLI config reads verified), and the Purple Rabbit seat build began under the same order.
