@@ -1,0 +1,1 @@
+{"description":"OpenClaw shared kits plugin (local, Captain's build — not published).","devDependencies":{"@openclaw/plugin-sdk":"workspace:*"},"name":"@openclaw/shared-kits-plugin","openclaw":{"build":{"bundledDist":false,"openclawVersion":"2026.11.3"},"compat":{"pluginApi":">=2026.11.3"},"extensions":["./index.ts"]},"type":"module","version":"2026.11.3"}

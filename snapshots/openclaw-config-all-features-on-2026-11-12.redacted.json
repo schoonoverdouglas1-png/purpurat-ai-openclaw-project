@@ -262,10 +262,16 @@
       "zalouser": {
         "enabled": true
       },
-      "qa-channel": {
+      "qa-lab": {
         "enabled": true
       },
-      "qa-lab": {
+      "shared-kits": {
+        "enabled": true
+      },
+      "old-with-new": {
+        "enabled": true
+      },
+      "bridges": {
         "enabled": true
       }
     }

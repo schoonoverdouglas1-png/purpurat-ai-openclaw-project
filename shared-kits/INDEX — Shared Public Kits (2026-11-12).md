@@ -52,6 +52,13 @@ live; edits belong in the originals, and these copies refresh from them.
     — the feature manifest (access / ping / poll / try / test inventory).
     Original: `~/workspace/your_files/Feature-Manifest-Access-Ping-Poll-Try-Test-2026-11-10.txt`
 
+12. **FREEBIES-FIRST — Routing Card (2026-11-12).md** (1,139 bytes)
+    — standing routing doctrine for every seat: free tiers first, always;
+    paid only when free can't carry it or the Captain directs; the Captain's
+    Muse allotment is spent LAST. Read this first; it governs how all the
+    other kits get used.
+    Original: this folder (born here, Nov 12, 2026, Captain's order ~6:50 PM CST).
+
 ## Exclusions (by the Captain's hard rule — never copied here)
 MEMORY.md, SOUL.md full text, personal identifiers beyond what the public
 crew roster header already prints, lab/medical material, credential material.

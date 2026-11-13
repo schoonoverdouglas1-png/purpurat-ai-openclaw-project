@@ -78,3 +78,12 @@ no SOUL.md full text, no identifiers beyond the public roster header, no
 medical material, no credentials. The live config was NOT copied into any
 git repo (it carries the gateway token); a redacted snapshot went to the
 purpurat repo instead.
+
+## ADDENDUM (later, Nov 12, 2026) — qa-channel staged, three Captain's plugins added
+During the plugins phase, qa-channel proved to bundle an incompatible SDK
+copy in its own node_modules and broke the embedded agent path; it was
+staged (see PLUGINS-BUILT-2026-11-12.md). Three new plugins built by Ember
+(shared-kits, old-with-new, bridges) were registered and enabled. Current
+verified totals: **186 plugins found, 181 enabled, 5 staged** (the four
+config-required plugins above, plus qa-channel). The 179-enabled figure
+above stands as the record of the first activation pass (old-with-new).
