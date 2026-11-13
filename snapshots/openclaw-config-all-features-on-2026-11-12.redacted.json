@@ -1,0 +1,312 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "/home/hatch/workspace/git-automation/purpurat-ai-openclaw-project/workspace",
+      "model": "gemini-bridge/gemini-3.5-flash-lite"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "anthropic": {
+        "config": {
+          "sessionCatalog": {
+            "enabled": true
+          }
+        }
+      },
+      "codex": {
+        "config": {
+          "sessionCatalog": {
+            "enabled": true
+          }
+        },
+        "enabled": true
+      },
+      "clickclack": {
+        "enabled": true
+      },
+      "copilot": {
+        "enabled": true
+      },
+      "diffs": {
+        "enabled": true
+      },
+      "diffs-language-pack": {
+        "enabled": true
+      },
+      "discord": {
+        "enabled": true
+      },
+      "duckduckgo": {
+        "enabled": true
+      },
+      "exa": {
+        "enabled": true
+      },
+      "facetime": {
+        "enabled": true
+      },
+      "feishu": {
+        "enabled": true
+      },
+      "firecrawl": {
+        "enabled": true
+      },
+      "fish-audio-speech": {
+        "enabled": true
+      },
+      "gradium": {
+        "enabled": true
+      },
+      "imessage": {
+        "enabled": true
+      },
+      "irc": {
+        "enabled": true
+      },
+      "levanto": {
+        "enabled": true
+      },
+      "matrix": {
+        "enabled": true
+      },
+      "mattermost": {
+        "enabled": true
+      },
+      "muse": {
+        "enabled": true
+      },
+      "mxc": {
+        "enabled": true
+      },
+      "onnx": {
+        "enabled": true
+      },
+      "openshell": {
+        "enabled": true
+      },
+      "parallel": {
+        "enabled": true
+      },
+      "perplexity": {
+        "enabled": true
+      },
+      "searxng": {
+        "enabled": true
+      },
+      "signal": {
+        "enabled": true
+      },
+      "slack": {
+        "enabled": true
+      },
+      "slack-huddles": {
+        "enabled": true
+      },
+      "sms": {
+        "enabled": true
+      },
+      "subq": {
+        "enabled": true
+      },
+      "tavily": {
+        "enabled": true
+      },
+      "tokenjuice": {
+        "enabled": true
+      },
+      "typesafe": {
+        "enabled": true
+      },
+      "whatsapp": {
+        "enabled": true
+      },
+      "a2a": {
+        "enabled": true
+      },
+      "active-memory": {
+        "enabled": true
+      },
+      "admin-http-rpc": {
+        "enabled": true
+      },
+      "advisor": {
+        "enabled": true
+      },
+      "agentsapi": {
+        "enabled": true
+      },
+      "apple-fm": {
+        "enabled": true
+      },
+      "autoreview": {
+        "enabled": true
+      },
+      "beam": {
+        "enabled": true
+      },
+      "bonjour": {
+        "enabled": true
+      },
+      "brave": {
+        "enabled": true
+      },
+      "buzz": {
+        "enabled": true
+      },
+      "cloudflare": {
+        "enabled": true
+      },
+      "code-mode-quickjs": {
+        "enabled": true
+      },
+      "crabbox": {
+        "enabled": true
+      },
+      "diagnostics-otel": {
+        "enabled": true
+      },
+      "diagnostics-prometheus": {
+        "enabled": true
+      },
+      "googlechat": {
+        "enabled": true
+      },
+      "imap": {
+        "enabled": true
+      },
+      "knowledge": {
+        "enabled": true
+      },
+      "line": {
+        "enabled": true
+      },
+      "llm-task": {
+        "enabled": true
+      },
+      "lobster": {
+        "enabled": true
+      },
+      "logbook": {
+        "enabled": true
+      },
+      "mcp-relay": {
+        "enabled": true
+      },
+      "memory-lancedb": {
+        "enabled": true
+      },
+      "memory-wiki": {
+        "enabled": true
+      },
+      "migrate-claude": {
+        "enabled": true
+      },
+      "migrate-hermes": {
+        "enabled": true
+      },
+      "msteams": {
+        "enabled": true
+      },
+      "nextcloud-talk": {
+        "enabled": true
+      },
+      "nostr": {
+        "enabled": true
+      },
+      "oc-path": {
+        "enabled": true
+      },
+      "onepassword": {
+        "enabled": true
+      },
+      "policy": {
+        "enabled": true
+      },
+      "raft": {
+        "enabled": true
+      },
+      "reef": {
+        "enabled": true
+      },
+      "session-share": {
+        "enabled": true
+      },
+      "synology-chat": {
+        "enabled": true
+      },
+      "telegram": {
+        "enabled": true
+      },
+      "tlon": {
+        "enabled": true
+      },
+      "twitch": {
+        "enabled": true
+      },
+      "vault": {
+        "enabled": true
+      },
+      "voice-call": {
+        "enabled": true
+      },
+      "workboard": {
+        "enabled": true
+      },
+      "x": {
+        "enabled": true
+      },
+      "zalo": {
+        "enabled": true
+      },
+      "zalouser": {
+        "enabled": true
+      },
+      "qa-channel": {
+        "enabled": true
+      },
+      "qa-lab": {
+        "enabled": true
+      }
+    }
+  },
+  "meta": {
+    "migrations": {
+      "modelPolicyAllowlist": true,
+      "utilityModelSeparation": true,
+      "skillWorkshopPlugin": true,
+      "skillLibraryToolSplit": true
+    },
+    "lastTouchedVersion": "2026.11.3"
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "REDACTED"
+    },
+    "controlUi": {
+      "experimental": {
+        "customPlugins": true
+      }
+    }
+  },
+  "models": {
+    "providers": {
+      "gemini-bridge": {
+        "baseUrl": "http://127.0.0.1:18901/v1",
+        "api": "openai-completions",
+        "auth": "none",
+        "models": [
+          {
+            "id": "gemini-3.5-flash-lite",
+            "name": "Gemini 3.5 Flash Lite via bridge",
+            "input": [
+              "text"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

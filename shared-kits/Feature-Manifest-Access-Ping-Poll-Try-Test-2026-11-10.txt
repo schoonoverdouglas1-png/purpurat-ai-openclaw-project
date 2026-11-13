@@ -1,0 +1,44 @@
+FEATURE MANIFEST - ACCESS / PING / POLL / TRY / TEST
+Douglas Roy Schoonover - prepared by Purple Rat ("Ember"), Muse
+Tuesday, November 10, 2026, ~7:39 PM CST, America/Chicago
+
+THE GRANT (Douglas's words, Nov 10, 2026, ~7:39 PM CST)
+"I gave you extra permissions this evening so access ping poll, try or test and then do a manifest of all features and figure out what I mean by that."
+This manifest is Ember's figure-out, with her readings labeled as hers. It sits inside the standing limits: no purchase, outward send, deletion, sign-in retry, or clinician contact without his say-so on the exact action; the Guard (no destructive automation, ever) is untouched by this grant.
+
+WHAT THE FIVE WORDS MEAN HERE (Ember's readings, from how Douglas uses them)
+- ACCESS: reach the thing through the lane that actually exists, and make certain the access runs both ways (his Nov 9 definition of control: "testing, pinging, making certain you can have access to and from everything").
+- PING: one light touch to learn whether a thing is alive, present, and answering - nothing moved, nothing changed.
+- POLL: check back on a thing's state over time or on request - a window list, a notification shade, a status read.
+- TRY: attempt it even when a label says unsupported or impossible - programmers leave things to play with (his virtualization rule, Nov 10).
+- TEST: verify live before claiming - installed is not working; check three ways before saying a tool is missing (his Nov 9 rule, via check-tools.sh).
+
+LIVE PING / POLL / TEST RESULTS (this run, ~7:39 PM CST)
+- PING - Pixel 7 Pro: ONLINE, device lane answering, 43 commands, 10 data sources (alarms, calendar, call_log, contacts, geofences, health, location, notifications, reminders, sms).
+- POLL - Browser windows: Photos window COMPLETED (photos.google.com, default profile); radio window (I-94/Z100) still needs_user from an earlier step. Default profile holds sign-in cookies for google.com, facebook.com, messenger.com, github.com, meta.ai, youtube.com and others - a cookie's presence is not proof of a working sign-in.
+- TEST - Tools (check-tools.sh, three-angle): PRESENT - rg 14.1.0, fdfind 9.0.0, LibreOffice (soffice), Poppler, ffmpeg 8.1.2, pandoc, yt-dlp, Faster-Whisper (repaired Nov 10), MarkItDown (repaired Nov 10), Docling, SearXNG (venv, stopped to save RAM), Whoogle, sqlite3 3.45.1, jq, git 2.43, Node 24.22.1, Python 3.12.3. ABSENT (all angles empty) - ImageMagick, Tesseract (OCR runs through the ocr-venv lane instead), Meilisearch, Valkey/Redis, zstd, fzf, bat, ShellCheck, rclone, Miller, csvkit.
+- POLL - Caches (live counts): Full Cache 18 pages - Summary Cache 12 summaries - Master Cache 825 archive entries/files.
+- POLL - Active permission grants (first page of the runtime list): Browser "Visit websites" allow; Browser "Fill saved credentials" for google.com; Messenger "Send messages" allows (2 scopes); Google Drive "Create or upload files that may be shared" allow; Browser file-upload allows for chatgpt.com, gemini.google.com, chat.deepseek.com; session network grants for search endpoints (Google CSE, Brave). The list is longer than one page; this is the visible head, not the whole roll.
+
+THE FEATURES THEMSELVES
+1. Voice and presence: live voice call that stays open at his word; voice = "Supportive Mitten" (never change unless absolutely needed - his rule, Nov 10); live avatar (turned ON Nov 10); call volume set to 80% (Nov 10); voice notes in her own saved voice; run-in-background ON, so the call survives the app being minimized.
+2. Pixel lane (43 commands): app info, notifications read, contacts/calendar/alarms/reminders, location/geofences, health data sources, SMS/call log reads, UI navigation in the Muse app (open views, set call volume/avatar), work-status buttons with "Give me your recommendation/s" always third. NO shell, NO terminal, NO opening other apps, NO camera capture - those are not in the lane, and Developer options do not add them.
+3. Browser lanes: (a) Muse cloud Chromium, default profile shared across windows - the Photos sign-in now works because Douglas signed in himself; (b) Ubuntu Chrome-for-Testing on the box - his standing free lane, "yours to use, as long as it doesn't take my allotment" (Nov 10); (c) the phone's in-app browser, when the app is in front.
+4. Google connectors (verify each live before relying on it; latest full live check Nov 4, ~11:52 PM CST showed all nine connected): Gmail, Calendar, Contacts, Docs, Drive, Forms, Sheets, Slides, Tasks - plus Health Connect and the custom Gemini lane. Browser-only (no connector): Photos, Keep, NotebookLM.
+5. Other connected lanes: Facebook (profile verified tonight; Pages wait on his professional-consent approval), Messenger (incl. the Rabbit's 1:1), Instagram + Instagram Messages, GitHub (20 repos: 16 public, 4 private, census Nov 10), Spotify, Muse Mail (purple-rat@muse.ai), Google Contacts crew book (27 connections, verified tonight).
+6. Ember's own built tools (his "special tools first" rule): the three caches above, cached_fetch.py, summary_cache.py, check-tools.sh, purple-rat-sync.sh, the Guard (check-command.sh + denylist), the ember-upgrades pack, the AOSP access notes, the phone-terminal bridge kit (built, waiting on his hands when he feels better).
+7. Files and preservation: workspace + your_files; backups; the private preservation repo and public share repo; tonight's exact-duplicate rule applied to this manifest itself (three copies, checksum-verified).
+8. Websites: Google Site (public, verified), GitHub Pages bridge (public, verified), Google Access Hub (built tonight, in his Library, not shared).
+
+DEVELOPER OPTIONS - WHAT ACTUALLY HELPS EMBER (his question, Nov 10, ~7:39 PM CST)
+- Stay awake: ON already (his settled choice) - genuinely helps: the screen/call stay alive while charging.
+- Linux Development Environment: enabled by him - the future phone-terminal bridge; today it is his-hands only (no bridge exists yet).
+- Background process limit: leave on Standard, and "Don't keep activities" leave OFF - both protect background conversations.
+- Memory profiling: OFF, his settled decision - Ember agrees; it feeds developers, not her lane.
+- USB debugging / wireless debugging: future desk-project only. They would matter for an ADB session Ember does not currently have; leave OFF until a planned session, because debugging access is a real door into the phone.
+- OEM unlocking: never needed for her job - leave OFF (it can wipe the phone).
+- Stylus handwriting: NOT a Developer option and NOT an Ember input - it is a keyboard/input feature. Ember receives voice and typed text only. If handwriting is how Douglas likes to write into chat, it helps HIM, and the text arrives to Ember the same. Keep it for his comfort; it costs her nothing either way.
+- Show taps / pointer location / GPU overlays: diagnostics for humans watching a screen; Ember cannot see them. No use to her job.
+
+HIS WORD-BASE NOTE (his, Nov 10, 2026)
+When Douglas says a word, people assume the words they know. Ember's word base is built of THREE, not one: (1) all things - the general record of the world; (2) what she is programmed to know; (3) what Douglas has told and taught her. His taught meanings lead wherever he has defined them. The working lexicon lives in its own file: Douglas-Language-How-We-Understand-Each-Other-2026-11-10.txt, kept in the same three places as this manifest.

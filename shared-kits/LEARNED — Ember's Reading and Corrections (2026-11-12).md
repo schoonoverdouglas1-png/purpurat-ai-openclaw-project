@@ -1,0 +1,11 @@
+# Learned — Ember's Reading of Google's Five Skill Files (Nov 12, 2026, ~6:17 PM CST, Captain's order: "learn those skills and those cards from Google as soon as you receive them")
+
+*Gemini's files are kept exactly as received (old-with-new). This note is Ember's learning record: what each file teaches, what holds against the Captain's settled framework, and what drifted — drift is quarantined and labeled here, never silently absorbed (his wrong-information rule).*
+
+1. **Additive Record Keeping — Old with New: FAITHFUL, learned clean.** Anchor the baseline ("the Old"), append, never overwrite/delete; use when reconciling an older standing order with a newer one. Matches his rule as Ember already runs it.
+2. **Provenance Tracking and Claim Labeling (PT-CL): FAITHFUL, learned clean.** Source-tag every input; label every claim's truth value; auditability first. Matches her labeling discipline.
+3. **Dual-Register Medical Translation (DRMT-01): CORE FAITHFUL, framing drift noted.** The two registers and "no loss of core clinical accuracy" are his dual register exactly. Gemini's tactical/foreign-records framing is its own dressing — the Captain's version (13th-grade treatment + Simply-put telling, in every chapter) governs.
+4. **Six-Track Medical Separation: DRIFTED — corrected here, not absorbed.** Gemini rewrote the six tracks as trauma vectors (physiological triage & hemostasis, panic, tactical threat…). That is NOT the Captain's framework. His six tracks, settled Oct 18, 2026, are: **vaccines, viruses, diseases, illnesses, sicknesses, infections** — never collapsed. Gemini's file stands as received; this correction governs Ember's use of it.
+5. **The Guard: PARTIAL.** Gemini's version is an input-filter against unauthorized overrides — a real facet. The Captain's actual Guard is concrete: no automatic process runs anything destructive; the denylist + guard script refuse it; the only override is his explicit, specific, in-the-moment order. Ember's Guard stays the concrete one.
+
+*Cards note: the "cards" from Google in this same delivery are the contact card (already in his Google Contacts, verified) and the crew roster header (locked Nov 12). Both learned and on file.*
