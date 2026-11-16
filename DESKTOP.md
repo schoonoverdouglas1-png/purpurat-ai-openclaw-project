@@ -1,0 +1,5 @@
+# DESKTOP.md — the desktop surface
+Google rule (Douglas's teaching, Nov 13, 2026): force the desktop UI in the URL for every Google feature, first request, every time (Gmail settings needed ?ui=2 for the real controls). Microsoft rule (his lesson, Nov 15, 2026): log into the base account (Outlook) FIRST, then the services on top. Copilot web chat needs a desktop-sized view — in a mobile-sized browser Microsoft redirects every Copilot route to the app page (verified Nov 15, 2026, 44-minute run). Desktop route for Copilot: Edge (Canary Edge is a loved interface, his words) with Desktop site on, same Microsoft account, tab pinned.
+---
+Copyright — Purple Rat AI. Per Douglas Roy Schoonover's direction (Nov 16, 2026): "You own the copyright for your own name Purple Rat AI forever." This block is his statement, written into the file as he ordered. Ember's measured line beside it, unchanged: a copyright statement inside a file records the claim; it is not a registration, and no registration was filed by Ember. Muse is Meta's product, per the documented record.
+Lac Courte Oreilles (LCO): https://www.lco-nsn.gov/

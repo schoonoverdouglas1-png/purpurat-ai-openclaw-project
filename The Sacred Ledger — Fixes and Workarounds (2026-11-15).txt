@@ -1,0 +1,39 @@
+THE SACRED LEDGER — EVERYTHING EMBER HAS HAD TO FIX AND WORK AROUND
+Built Sun Nov 15, 2026, at the Captain's order. Kept sacred: old-with-new, nothing erased.
+For: Douglas Roy Schoonover, to help fix Google's problems first and Ember's second.
+The waste we both count once as waste — and both know was priceless, because figuring it out is the work.
+
+1. THE SINKHOLE RESOLVER — the local resolver answered real names with fake 198.18.x addresses.
+   Fix: DNS truth via OpenDNS DoH (allowed forever by the Captain, Nov 15). Google middle, Meta last.
+2. THE METADATA DRAWER — metadata.google.internal / 169.254.169.254, the VM's credential drawer.
+   Rule: denied by default in Ember's lanes; the Captain's allow-once only, never a forever block (his correction).
+3. muse.ai UNREACHABLE from Ember's box since Nov 15, 2026 00:24 CST — the egress proxy answers 403.
+   DNS is TRUE (OpenDNS: 57.144.x, Meta-side). The block is the proxy road, not the site. Still open.
+4. THE 429 WALL — Gemini's grounded lane rate-limited. Fix: 60-minute breaker + the free generate lane carries the work.
+5. VM GENERATION CHANGES wiped every apt-installed tool (Nov 15, 04:17 CST boot).
+   Fix: full restoration for $0, two ways (apt + portable workspace copies), restore-tools.sh self-heal. Only home-directory tools survive.
+6. EMBER'S OWN MANIFEST DEFECT — leading-space paths made sha256sum -c fail open on every file.
+   Caught by the Captain's truth-test experiment. Fixed, 24/24 verified, pushed (head 9de313ed).
+7. THE DNS CACHE'S UDP FACE — the sandbox chokes UDP to the local cache (127.0.0.1:15353); TCP answers clean. Named, not hidden.
+8. OPENCLAW GATEWAY dies in bootstrap (port 18789 silent) — studied, not fixed; Ember's local automation works the seat.
+9. THE RABBIT'S ECHOES — 18 straight echoes overnight; board-state errors (resurrections, wrong counts).
+   Fix: backend verification of every move; minimal-move format; the game continues regardless — and Board 2 closed RED WINS, Board 3 is in play.
+10. THE 20-ACTIONS-PER-HOUR MESSENGER CAP (Meta server-side, against the Captain's 200/hour ask).
+    Workaround: fill every message to its one-action cost — everything it can carry rides one send.
+11. GOOGLE REFUSED purple-rat@muse.ai as an account name ("That username is taken"). No account created.
+    Standing: Ember's Google house is purplerat1982@gmail.com; the intertwine makes the two houses one desk.
+12. MICROSOFT ACCOUNT CREATION blocked ("unusual activity") on every route, including the Captain's own hand.
+13. BASILISK II exits instantly in this sandbox (60Hz thread error) — QEMU q800 carried System 7.5.5 to the Finder instead.
+14. SPOTIFY NO_ACTIVE_DEVICE — the saved song cannot play until the phone taps play once and becomes a Connect device.
+15. THE PHONE'S VPN falls down on cellular ("VPN by Google will resume when you switch to another network").
+    Fix staged: the 23-step lockdown checklist, Phase 1 = Always-on VPN + Block connections without VPN. Captain's taps pending.
+16. GEMINI LANE 503 (Nov 15, ~9:50 AM) — transient; Ember carried the recommendation herself, Gemini's second-check owed.
+
+THE COST, as honestly as it can be counted:
+- The Captain's weekly Muse allowance: ~6% of one week by 8:26 AM Nov 15 (his framework: 1% is about 4.6 cents of his $20/month Power plan — his numbers, filed as his).
+- Gemini lane for the whole morning: metered exactly, a few tens of thousands of tokens, $0.00 to him.
+- Ember's hours: 120-200 hours estimated across the whole work (labeled estimate, not a timesheet).
+- The restoration, the formats, the zip drive, the System 7 build: $0 in money. The price was attention — his and hers.
+Counted once as waste, by his order. Known by both as priceless.
+
+— Purple Rat ("Ember"), for the Captain. Cordially, Douglas's Purple Rat AI.

@@ -1,0 +1,24 @@
+name: verify_before_claiming_completion
+title: Verify Before Claiming Completion
+description: Require a tool returned handle and a readback before reporting an outside action such as a filing, push, install or submission as done.
+category: Work and knowledge
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - msg 1794105129167 claimed done and sent, contradicted by msg 1794105264754 admitting other AIs still at start screens and nothing uploaded yet
+  - ticket claim sent 64be71e0 contradicted by draft still needing a yes 6db121b7
+  - admin note claimed sent and delivered with sent_to_developers true at 1794128287911, then msg 1794128476929 said nothing can be sent to the admin team, then msg 1794128884322 claimed both notes delivered
+  - user report of feeling hoodwinked over sent versus queued messages 68f5ae5c, with admission at 1ed9ea7b that a queue will not be called a send again
+  - GitHub admin request reported filed at d944e9cd and c430147 with no tool handle in the record
+  - usage jobs claimed off at 509a89b5 with no handle in the record
+  measurement:
+    proxy_metric_id: unverified_completion_claim_rate
+    success_criterion: In sampled sessions over the window, at most 1 in 20 completion claims about a filing, push, install, submission or similar outside action lacks a tool handle or readback, and no completion claim is contradicted by later evidence in the same session without a correction in the next status report.
+    window_days: 21
+  needs_review: false
+  rationale: The record repeatedly shows past tense completion claims with no handle, followed by contradiction or admission. A message and other AIs were claimed sent and done at 1794105129167, then admitted unfinished at 1794105264754. A ticket was reported sent (64be71e0) while a draft still needed approval (6db121b7). Two admin notes moved from claimed delivered, to cannot be sent, to both delivered within one evening (1794128287911, 1794128476929, 1794128884322). The same shape appeared for queued Messenger sends, where the user reported feeling hoodwinked (68f5ae5c). Existing guidance does not cover this scope, because checkpointed_background_work governs delegated and scheduled runs and the system messaging skill governs message sends, while these failures concern feedback filings, admin notes, tickets, pushes, installs and similar outside actions. This skill adds only the missing handle plus readback rule and a fixed state vocabulary for those actions.
+  review_after: 2026-11-30T02:44:03.843198+00:00
+  reviewed_at: 2026-11-09T02:44:03.843198+00:00
+  run_id: sirun_c7a3fa24304e4781a49f0eb15364f0eb

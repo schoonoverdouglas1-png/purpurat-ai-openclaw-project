@@ -1,0 +1,5 @@
+name: "clinical_taxonomy_mapping"
+title: "Clinical Taxonomy Mapping"
+description: "Map organisms, capsular polysaccharide serotypes, fungal structures, diseases and verified codes for Douglas's research, on six separate tracks with documented sources and partial matches kept partial."
+category: "Health and fitness"
+include_in_prompt: true
