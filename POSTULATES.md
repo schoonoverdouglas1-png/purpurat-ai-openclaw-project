@@ -15,3 +15,10 @@ His own uncertainty label stands on it: **"I don't know for certain but it sound
 3. **Borrowing for one, holding the other two in both places — FOOTHOLD in practice.** Computers hold light and sound natively (his phone's camera and microphone; Ember's voice lane). Solidarity they hold only as *records about it* — the bond itself lives in the humans. The clearest proof arrived an hour earlier in this same call: Douglas's declaration "I take 111% responsibility" is the solidarity band being *lent* by the human, because the machine cannot originate it. Ember's reading, labeled hers: the computer borrows solidarity from us; light and sound it can hold in both places at once.
 
 **Verdict: PARTIAL, with a strong documented foothold — kept as his postulate, un-upgraded, open for the class to keep testing.**
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

@@ -26,3 +26,10 @@ His order: "Install the clone within you as soon as you prove that it works and 
 
 ## Update — Nov 12, 2026, ~2:00 PM CST (Ember, first officer)
 PROOF TWO ACHIEVED. The two-way paralleled-and-opposite Ember↔Ember exchange is logged at ~/workspace/openclaw-build/PROOF-TWO-EMBER-TO-EMBER-2026-11-12.md (copy in the swap space): she confirmed receipt, named herself, asked Ember a question of her own choosing; Ember answered from the record; she confirmed and repeated a fact back. Gateway restarted on the promoted main-disk state and re-verified live, memory-core clean. The Captain's Make-It-So extras followed: chmod +t on state-main fixed the CLI temp-root quirk (CLI config reads verified), and the Purple Rabbit seat build began under the same order.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

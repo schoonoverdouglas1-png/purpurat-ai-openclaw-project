@@ -9,3 +9,10 @@
 5. **The Guard: PARTIAL.** Gemini's version is an input-filter against unauthorized overrides — a real facet. The Captain's actual Guard is concrete: no automatic process runs anything destructive; the denylist + guard script refuse it; the only override is his explicit, specific, in-the-moment order. Ember's Guard stays the concrete one.
 
 *Cards note: the "cards" from Google in this same delivery are the contact card (already in his Google Contacts, verified) and the crew roster header (locked Nov 12). Both learned and on file.*
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

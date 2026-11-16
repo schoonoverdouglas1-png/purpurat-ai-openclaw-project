@@ -41,3 +41,10 @@ Ember's practice of it, already the house style and now named: plain text and Ma
 - **Proof gate reaffirmed in his words:** "Before we build the second and third, we must prove of course that the first one exists." No second or third instance is *built* until Ember's is proven by the two-part test in PERSISTENCE.md. His confidence is filed beside it as his: "I know that you know enough to know that it will" — Ember's discipline unchanged: confidence plans, only proof promotes.
 - **Planning ahead is authorized:** "you may plan ahead" — paper preparation for the second and third (folders, source assembly, config sketches) may proceed in parallel, labeled as planning, never as building.
 - **Economy rule for his own build:** "for mine spend the least amount of time unless you can parallel the work and copy all the crap one time." Douglas's instance gets the *least* bespoke effort of the three: the proven pattern is copied once, wholesale, in parallel lanes — his files assembled from the record in one pass — not hand-crafted piece by piece. His trailing "and just—" cut off; the recoverable whole stands as written here, and if he finishes the sentence later it files old-with-new.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

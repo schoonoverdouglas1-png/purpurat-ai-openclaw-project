@@ -10,3 +10,10 @@ Started Nov 12, 2026, under Douglas's Two-for-One rule: when tokens or time are 
 
 *Rule of the file: real errors only, entered when caught, never removed — old-with-new applies to mistakes too.*
 - **2026-11-12 ~1:14 PM CST — OpenClaw compile, first attempt REFUSED BY ITS OWN GUARD.** `pnpm build` stopped in 17 seconds: the build checks memory before removing output and would not proceed on this box's readings, offering its own lane — more memory, or set OPENCLAW_TSDOWN_MAX_OLD_SPACE_MB to attempt anyway. Cost: 17 seconds of machine time, no tokens of consequence, no damage (the guard did its job; a safeguard working is not a failure of character, but the attempt is ledgered because the rule is the rule). Retry launched with the override at 2048 MB after the install processes exited and available RAM recovered to ~2 GB.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

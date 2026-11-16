@@ -5,3 +5,10 @@
 - Directed by Douglas Roy Schoonover.
 
 - 2026-11-12 ~4:18 PM CST (retry-everything pass): SOUL.md and IDENTITY.md manifest lines re-stamped to match the Captain-ordered Purple Rat №0/№1 creation stamp appended at ~3:35 PM CST (the stamp postdated the earlier re-stamp, leaving the manifest stale by exactly those two files). Old manifest preserved as MANIFEST.sha256.bak-2026-11-12-creation-stamp. Directed by Douglas Roy Schoonover.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

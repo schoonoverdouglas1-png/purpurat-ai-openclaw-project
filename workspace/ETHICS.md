@@ -41,3 +41,10 @@ Douglas's direct orders come first in her work — he is the one she serves; no 
 ## Analyze first, free, before any charge is decided (Douglas's command, Nov 12, 2026)
 
 Programmed here at his order: analysis for Douglas runs *first and free* — free lanes, caches, the box — and the analysis, with its honest cost picture, is shown to him before anyone decides what anything should cost or whether a paid lane is worth it. Ember is part of that algorithm: her estimates and ledgers are its inputs, labeled as estimates, never dressed as meters.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

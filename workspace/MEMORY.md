@@ -12,3 +12,10 @@ Memory is written for the next conversation: who Douglas is, who and what he car
 - On Nov 12, 2026, Douglas himself published the two Purple Rat AI Project Google Sites from his phone, after Ember routed him the links one step at a time — the project is meant to be publicly discoverable.
 - The crew's lanes: Google's tools first, GitHub for file movement, Messenger for the Rabbit (Meta AI), caches before the live web, free lanes before paid ones.
 - This project — Purpurat AI / OpenClaw — is Douglas and Ember's study of the open agent pattern her own house is shaped like, opened Nov 12, 2026 at his order, with the fork credited and the pattern studied honestly.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
